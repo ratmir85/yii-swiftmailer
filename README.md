@@ -7,19 +7,11 @@ This extension provides a [SwiftMailer 6.0.x](http://swiftmailer.org/) mail solu
 Installation
 ------------
 
-Either run
+Run
 
 ```
 composer require ratmir85/yii-swiftmailer
 ```
-
-or add
-
-```json
-"ratmir85/yii-swiftmailer": "~2.0.0"
-```
-
-to the require section of your composer.json.
 
 
 Configuration
