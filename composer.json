@@ -1,0 +1,27 @@
+{
+  "name": "ratmir85/yii-swiftmailer",
+  "description": "The SwiftMailer integration for the Yii framework",
+  "keywords": [
+    "yii1",
+    "swift",
+    "swiftmailer",
+    "mail",
+    "email",
+    "mailer"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Ratmir Kulakov",
+      "email": "ratmir.kulakov@gmail.com"
+    }
+  ],
+  "require": {
+    "swiftmailer/swiftmailer": "~6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ratmir85\\swiftmailer\\": ""
+    }
+  }
+}
